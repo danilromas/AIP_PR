@@ -1,0 +1,38 @@
+body {
+  padding: 10px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  height: 100vh;
+}
+
+a {
+  color: #00B7FF;
+}
+
+img {
+  height: 70vh;
+}
+
+div#oops {
+  display: flex;
+  padding: 0;
+}
+
+p#left-oops {
+  text-align: left;
+  margin: auto auto auto 0;
+}
+
+p#right-oops {
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+img#oops-comics {
+  height: 55vh;
+}
+
+img#oops-man {
+  height: 70vh;
+}
